@@ -1,0 +1,8 @@
+flask
+azure-cosmos
+langchain_openai
+tqdm
+openai
+langchain
+python-dotenv
+pandas
